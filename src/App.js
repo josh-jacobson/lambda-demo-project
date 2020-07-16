@@ -14,7 +14,7 @@ function App() {
   }, []);
   return (
     <main>
-      <h1>WEBPT16 Fun Adventure Giftimes App</h1>
+      <h1>WEBPT16 Fun Adventure Giftimes App, v2</h1>
       <h2>
         Deployed with{' '}
         <a
